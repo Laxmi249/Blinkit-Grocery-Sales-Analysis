@@ -4,6 +4,10 @@ A professional data analytics project using **SQL**, **Python**, and **Power BI*
 
 ---
 
+![Dashboard Preview](./Blinkit.jpg)
+
+---
+
 ## 🚀 Project Overview
 
 This multi-tool project analyzes Blinkit's grocery sales data using:
